@@ -1,0 +1,131 @@
+.logo{
+	padding: 5px;
+	margin: 0px 0px 0px 200px;	
+}
+
+#jumbotron1{
+	background-color: white;
+}
+
+.points-pattern{
+	background-image: url('../images/points.png');
+	background-repeat: repeat;
+	/* imagen fija*/
+	background-attachment: fixed;
+	background-position: center;
+}
+
+
+.video{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.logo:hover{
+	-webkit-animation-duration: 0.75s;
+	animation-duration: 0.75s;
+	-webkit-animation-name: bounceIn;
+	animation-name: bounceIn;
+}
+
+.mac{
+	background-image: url('../images/mac.jpg');
+	background-size: cover;
+	/* imagen fija*/
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.mac:hover{
+	opacity: 0.8;
+}
+
+.fondosteve{
+	background-image: url('../images/fondosteve.jpg');
+	background-size: cover;
+	color: white;
+	/* imagen fija*/
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.fondosteve:hover{
+	opacity: 0.9;
+}
+
+.imagenes:hover{
+	-webkit-transform: scale(1.2);
+}
+
+.card:hover{
+	opacity: 0.5;
+	-webkit-box-shadow: 2px 4px 17px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 2px 4px 17px -1px rgba(0,0,0,0.75);
+	box-shadow: 2px 4px 17px -1px rgba(0,0,0,0.75);
+}
+
+.steve:hover{
+	-webkit-transform: scale(1.3);	
+	-webkit-box-shadow: 2px 4px 17px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 2px 4px 17px -1px rgba(0,0,0,0.75);
+	box-shadow: 2px 4px 17px -1px rgba(0,0,0,0.75);
+}
+
+.footer{
+	background: black;
+}
+
+.logoFooter{
+	width: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+
+}
+
+.logoFooter:hover{
+	-webkit-transform: scale(1.5);	
+}
+
+/*
+                                                  
+                                                  
+                                                  
+                  ..rKQBK7PMr.                    
+               :2BBQBQgMBBMQBBgP:                 
+             :gBQBQBBBQQQQQBMQBBBR.               
+            sBBBBBBQBBBRbI52KPMZBBBK.             
+           IBBBBbji:.:ir:....:::i7KBB.            
+           2BB7.. .    .. ........:sBR            
+          rRgi...............:.:...:PBu           
+          dB5::.:.:...........:::.::sQK           
+          2Bdi::::............::::::7B2           
+          vQu::::..    ....    .:.::iQB           
+          :Br:r7r7rvLr.    :riiiiri::EB.          
+          rBi.::7rMYrLY:..7LYjEYrii.:BB           
+         .rQ:::r7.Y:..7r.:7..:Div7:..Bd.          
+          :P:::::....:r:..ii:...:::.:Ki           
+          .2.:.......:i..::::......::r.           
+          :i::.......i:. .ii......:::i.           
+           i:::......ii:.::i.....:i::.            
+             .i::...:::::.:::...::r:              
+             .r:::::::::.::::::::ii.              
+             .r:i:::777iiirr7::::ii               
+              :iii:.::::.::::..::r.               
+              .ii:::::..r:.:::iii:                
+             .rirri:........::irii:               
+             rg::iYLv7ri:iii77vi::b               
+             QQD:..ir1u2j2Jj7r..:qQ:              
+            rgZdgL:  ...:::..  rDRDY.             
+        :uQBdbK5UEdJ.  ..... :SRXKKqQB1L.         
+    .rKBBBMDP55uU1IbMJ:.. .:1Rd5SUXSPgBBBgv.      
+ .uQBBQRgZqPKS2UuU12521rv2jEbX2ujUuIXXZQRRQBZui.  
+BgBggEEPPSXIKSS252uJEi.i7rvijXj1I122bIKPDEZdQQBBQr
+B2bbKqSX55SSSP5IUUJIBMr.:7r7PBq2USSqdK1IKPqqqEDBRB
+RiLv7vv7YLs7j22Lv7vqdDbjr:ruPSZJ7sus2sLvLYjYJv1I51
+
+*/
